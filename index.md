@@ -1,1 +1,1 @@
-# This website hosts a portfolio of my digital work!
+This website hosts a portfolio of my digital work!
