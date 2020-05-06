@@ -1,4 +1,4 @@
-This website hosts a portfolio of my digital work!
+Hello! My name is Natalie DiMattia and I'm a classics/psychology double major at the College of the Holy Cross. This website hosts a portfolio of my digital humanities work. 
 
 [Original Research: Amphora and Krater Distribution Patterns](https://github.com/nadimattia/clas299/tree/master/beazley_finalproject)
 
